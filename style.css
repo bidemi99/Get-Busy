@@ -1,0 +1,33 @@
+body {
+    background-color: burlywood;
+    text-align: center;
+    /*width: 950px;
+    height: 100%;*/
+    
+}
+
+h1, h3, h5 {
+    color: brown;
+}
+
+.random {
+    border-radius: 5px;
+}
+
+#suggestion {
+    display: none;
+    font-style: italic;
+    font-size: 35px;
+    color: teal;
+}
+
+
+/*-------------------------*/
+
+#select-text {
+    display: none;
+    font-style: italic;
+    font-size: 35px;
+    color: teal;
+}
+
